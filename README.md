@@ -19,11 +19,11 @@ If you're like me you'll think it's awesome to have all of this drug data! Well,
 
 ## Folder Structure
 
-### Constraints  (_constraints.sql)
+### Constraints  ( _constraints.sql )
 
 The primary keys for each table in their respective SQL file.
 
-### Indexes   (_indexes.sql)
+### Indexes   ( _indexes.sql )
 
 The unique and RxNorm recomended indexes for each table in their respective SQL file.
 
@@ -31,6 +31,6 @@ The unique and RxNorm recomended indexes for each table in their respective SQL 
 
 The FULL table, constraint, and index creation in their respective SQL file.
 
-### Tables (_table.sql)
+### Tables ( _table.sql )
 
 The table only creation scripts.
