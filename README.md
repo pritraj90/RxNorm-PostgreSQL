@@ -1,10 +1,10 @@
 # RxNorm-PostgreSQL
 
-Scripts to create your own RxNorm Current Prescribable Content database for PostgreSQL.
+RxNorm Download Page [**link**](https://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html).
 
 ## About
 
-RxNorm Download Page [**link**](https://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html).
+Scripts to create your own RxNorm Current Prescribable Content database for PostgreSQL.
 
 ## Things I Have Learned
 
