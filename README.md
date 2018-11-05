@@ -15,6 +15,10 @@ If you're like me you'll think it's awesome to have all of this drug data! Well,
 3. Execute constraint scripts (and debug, because of what I have stated prior)
 4. Execute all index scripts
 
+## Case in Point
+
+According to NLM (National Library of Medicine), the RXNREL table should be able to have a Primary Key. It is not possible to create a composite key because of the NULL values in the Data. So, yea. There is that issue. This database is made with that in mind. So I have removed `NOT NULL` constraints on the columuns that are in reality `NULL`.
+
 ---
 
 ## Folder Structure
