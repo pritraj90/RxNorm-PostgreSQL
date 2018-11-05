@@ -6,7 +6,7 @@ RxNorm Download Page [**link**](https://www.nlm.nih.gov/research/umls/rxnorm/doc
 
 ## Things I Have Learned
 
-Yes, if you're like me that is, you'll think it's awesome to have all of this drug data! Well, the data from **RxNorm is not entirely accurate**. In that, there are duplications in the data or formatting errors in their releases. So **the recomended order of creating the database** would be:
+Yes, if you're like me that is, you'll think it's awesome to have all of this drug data! Well, the data from **RxNorm is not entirely accurate**. In that, there are duplications in the data or formatting errors in their releases (the RRF files). So **the recomended order of creating the database** would be:
 
 1. Execute table creation scripts
 2. Insert all data into the created tables
