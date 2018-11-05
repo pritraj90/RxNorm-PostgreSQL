@@ -27,7 +27,7 @@ The primary keys for each table in their respective SQL file.
 
 The unique and RxNorm recomended indexes for each table in their respective SQL file.
 
-### Scripts
+### Scripts ( _full.sql )
 
 The FULL table, constraint, and index creation in their respective SQL file.
 
