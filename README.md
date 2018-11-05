@@ -8,7 +8,7 @@ Scripts to create your own RxNorm Current Prescribable Content database for Post
 
 ## Releases
 
-For full database creation, see [Releases](https://github.com/ZionDials/RxNorm-PostgreSQL/releases)
+For full database creation, see [Releases](https://github.com/ZionDials/RxNorm-PostgreSQL/releases). The releases are only for the SQL creation file and contain **no Data files whatsoever**.
 
 ## Things I Have Learned
 
@@ -35,9 +35,9 @@ The primary keys for each table in their respective SQL file.
 
 The unique and RxNorm recomended indexes for each table in their respective SQL file.
 
-### Scripts ( _full.sql )
+### Scripts ( RxNormCurrentPostgreSQLDB.sql )
 
-The FULL table, constraint, and index creation in their respective SQL file.
+Contains the Full Database Creation `RxNormCurrentPostgreSQLDB.sql`. This will create a database `RxNorm`. Then create all tables, indexes, and constraints in the `Public` schema.
 
 ### Tables ( _table.sql )
 
