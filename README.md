@@ -1,6 +1,6 @@
 # RxNorm-PostgreSQL
 
-Scripts to create your own RxNorm Current Prescribable Content for PostgreSQL.
+Scripts to create your own RxNorm Current Prescribable Content database for PostgreSQL.
 
 ## About
 
